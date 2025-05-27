@@ -41,6 +41,9 @@ Les données contiennent les informations suivantes :
 
 ---
 
+![Tableau de bord Power BI](dashbord_predictions.PNG)
+
+
  ## Tableau de bord Power BI
  
 Le tableau de bord comprend :
